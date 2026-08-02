@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-gf2km2.kujang138.shop/sitemap.xml
